@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hasan Altın</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannaltin&label=Profile%20views&color=0e75b6&style=flat" alt="hasannaltin" /> </p>
 
 - 🌱 I’m currently learning **.Net Maui, Asp.Net Core, Java, C++**
 
@@ -19,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasannaltin&show_icons=true&locale=en&layout=compact" alt="hasannaltin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasannaltin&show_icons=true&locale=en" alt="hasannaltin" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannaltin&label=Profile%20views&color=0e75b6&style=flat" alt="hasannaltin" /> </p>
